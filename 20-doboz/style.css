@@ -1,0 +1,22 @@
+.container {
+    border: 2px solid lightblue;
+    justify-content: space-between;
+    display: flex;
+    width: 900px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.container div {
+    background-color: lightblue;
+    width: 70px;
+    height: 70px;
+}
+
+.red {
+    background-color:lightcoral;
+}
+
+.red div {
+    background-color: purple;
+}

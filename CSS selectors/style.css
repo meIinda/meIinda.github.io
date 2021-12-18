@@ -1,0 +1,24 @@
+/*Legyen a ‘The Businessman’ és a ‘The Lamplighter’ kék színű
+Adj hozzá a ‘The King’ és a ‘The Conceited Man’ divekhez egy 1 pixel széles zöld színű keretet
+Legyen a ‘The King’, ‘The Conceited Man’ és a ‘The Lamplighter’ félkövér
+Legyen a ‘The Businessman’ divnek sárga a háttere*/
+
+.big {
+    color: blue;
+}
+
+.container .asteroid {
+    border: 1px solid green;
+}
+
+.container, .asteroid.b329.big {
+    font-weight: bold;
+}
+
+p {
+    background-color: yellow;
+}
+
+div:hover {
+    background-color: red;
+}
